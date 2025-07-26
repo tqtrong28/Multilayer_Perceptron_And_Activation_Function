@@ -8,7 +8,7 @@ hình có thể học các mối quan hệ phức tạp giữa đầu vào và �
 trong các bài toán phân loại, hồi quy và các tác vụ học sâu khác trên các bộ dữ liệu có phân bố
 phức tạp.
 
-![ ](Kiến trúc các lớp MLPs.png)
+![ ](Kiến_trúc_các_lớp_MLPs.png)
 
 Trong bài tập này, chúng ta sẽ tìm hiểu cách cài đặt mạng MLPs để thực hiện các task bao
 gồm: regression, classification với non-linear data, và classification với dữ liệu ảnh. Dưới đây là
