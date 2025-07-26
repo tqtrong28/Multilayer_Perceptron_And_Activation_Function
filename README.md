@@ -101,11 +101,16 @@ cho phép mạng nơ-ron học được các quan hệ phức tạp hơn.
 ![ ](Activation_function.png)
 
 II. Bài tập
+
 A. Phần lập trình
+
 Giới thiệu sơ lược: Bài tập tuần này sẽ bao gồm 3 bài toán sau đây:
+
 • Bài toán 1: Task về regression cho một tập data Auto_MPG_data.csv dựa vào 9
 features của xe ô tô để dự đoán năng lượng tiêu thụ (MPG)
+
 • Bài toán 2: Task về classification (nonlinear data). Cho 1 tập data NonLinear_data.npy
 dựa vào 2 features để phân loại 3 classes
+
 • Bài toán 3: Task về classification ảnh. Cho 1 tập data FER-2013.zip gồm các ảnh thể
 hiện 7 (classes) cảm xúc khác nhau trên khuôn mặt con người
